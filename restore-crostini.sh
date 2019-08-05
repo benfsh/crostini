@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Should be able to execute directly from the git repo with this command
+# curl -H 'Accept: application/vnd.github.v3.raw' -sL https://github.com/benfsh/crostini/raw/master/restore-crostini.sh | sudo bash -
+
+restore-crostini.sh
+https://github.com/benfsh/crostini/raw/master/restore-crostini.sh
+
 # update existing catalogue and packages
 sudo apt-get update
 sudo apt-get -y upgrade
