@@ -62,3 +62,13 @@ Exec=env MOZ_USE_XINPUT2=1 /opt/firefox/firefox %u
 Type=Application
 Categories=Network;WebBrowser;
 EOT
+
+# install zsh
+# sudo apt-get -y install zsh
+# and set it as the default shell
+# sudo usermod -s "$(command -v zsh)" "${USER}"
+
+# will also need to setup zsh for the first time
+
+# install oh-my-zsh
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
