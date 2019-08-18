@@ -72,3 +72,6 @@ EOT
 
 # install oh-my-zsh
 # sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# install Source Code Pro powerline webfont from here...
+# https://github.com/wernight/powerline-web-fonts
