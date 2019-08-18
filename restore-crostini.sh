@@ -75,3 +75,11 @@ EOT
 
 # install Source Code Pro powerline webfont from here...
 # https://github.com/wernight/powerline-web-fonts
+
+# install terminator
+# sudo add-apt-repository -y ppa:gnome-terminator
+# sudo apt-get update
+# sudo apt-get -y install terminator
+
+# install powerline fonts
+# sudo apt-get install fonts-powerline
