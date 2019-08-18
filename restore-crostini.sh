@@ -82,4 +82,4 @@ EOT
 # sudo apt-get -y install terminator
 
 # install powerline fonts
-# sudo apt-get install fonts-powerline
+# sudo apt-get -y install fonts-powerline
