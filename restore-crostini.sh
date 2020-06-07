@@ -42,7 +42,7 @@ git config --global credential.helper store
 #jetBrains toolbox
 sudo apt-get -y install fuse
 #sudo apt-get -y install libnss3
-curl -sL https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.15.5666.tar.gz | sudo tar -xz -C /opt
+curl -sL https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.17.7018.tar.gz | sudo tar -xz -C /opt
 
 cd /opt/jetbrains-toolbox*
 sudo chmod u+x ./jetbrains-toolbox
