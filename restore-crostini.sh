@@ -11,7 +11,7 @@ sudo apt-get update
 sudo apt-get -y upgrade
 
 # install nodejs 10.x
-sudo curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+sudo curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -
 sudo apt-get install -y nodejs
 # optional build tools for node packages
 sudo apt-get install -y build-essential
